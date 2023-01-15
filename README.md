@@ -53,7 +53,7 @@ node server.js
 This will run the application on your local host 3001 and connect to the server.
 
 ## Screenshots
-(./assets/images/first.png)
-(./assets/images/second.png)
-(./assets/images/third.png)
-(./assets/images/fourth.png)
+![image](./assets/images/first.png)
+![image](./assets/images/second.png)
+![image](./assets/images/third.png)
+![image](./assets/images/fourth.png)
