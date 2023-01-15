@@ -55,5 +55,5 @@ This will run the application on your local host 3001 and connect to the server.
 ## Screenshots
 ![image](./assets/images/first.png)
 ![image](./assets/images/second.png)
-![image](./assets/images/third.png)
 ![image](./assets/images/fourth.png)
+![image](./assets/images/third.png)
